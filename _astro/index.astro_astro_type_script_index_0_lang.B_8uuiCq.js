@@ -1,0 +1,1 @@
+import{r as e}from"./forms.D8WbMcIt.js";var t=document.querySelector(`[data-contact-form]`);t&&e(t);
